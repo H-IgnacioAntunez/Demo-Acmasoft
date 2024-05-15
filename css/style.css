@@ -57,7 +57,7 @@ html {scroll-behavior: smooth;}
 /*Seccion del Hero*/
 .hero {
   position: relative;
-  height: 90vh;
+  height: 95vh;
   background-color: var(--primary-color);
   overflow: hidden;
 }
