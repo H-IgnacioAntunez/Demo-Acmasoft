@@ -91,7 +91,7 @@ html {scroll-behavior: smooth;}
 .hero__scroll-btn {
   position: absolute;
   left: 50%;
-  bottom: 30px;
+  bottom: 50px; /* Ajusta esta cantidad según desees */
   transform: translateX(-50%);
   z-index: 1;
   color: var(--bs-light);
